@@ -1,0 +1,12 @@
+let x = 100 / "Apple";
+let bool = true / "mojMjesec";
+let rec = "baNaNa ide na Mjesec NaNkad";
+let rec2 ="ba"+x+"a ide na Mjesec "+bool+"kad";
+console.log(rec2);
+let check = rec===rec2;
+console.log(check);
+console.log(typeof check);
+console.log(typeof x);
+console.log(typeof bool);
+console.log(typeof rec);
+console.log(typeof rec2);
